@@ -23,4 +23,5 @@ public class Usuario extends PanacheEntityBase {
     private String cpf;
     private String username;
     private String password;
+    private String role;
 }
