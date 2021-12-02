@@ -16,4 +16,6 @@ public interface PostService {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     List<Post> findAll();
+
+
 }
